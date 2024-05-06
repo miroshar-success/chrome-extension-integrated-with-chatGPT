@@ -1,4 +1,4 @@
-# Textocry - Copy Text from Images
+# Textocry - Copy Text from Images and Display answer from extracted question using ChatGPT4
 
 [![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rinormaloku/textocry/blob/master/LICENSE.txt)
 
@@ -43,15 +43,3 @@ Done!
 This tool is build with help of:
 * Tesseract.js - does the actual OCR:
 * @simo - creater of the [Screenshot Capture](https://github.com/simov/screenshot-capture) extension, used as a starting point for our codebase.  
-
-## Feedback
-
-* Request features or file bugs on [GitHub](https://github.com/rinormaloku/textocry/issues/new).
-* Write in our [Google Group](https://groups.google.com/forum/#!forum/textocry).
-* [Tweet](https://twitter.com/rinormaloku) me about any other feedback.
-
-## License
-
-Copyright (c) 2018-present Rinor Maloku.
-
-Licensed under the [MIT](LICENSE.txt) License.
